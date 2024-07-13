@@ -1,0 +1,17 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    background-image: url("../img/montana22.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#contador {
+    font-size: 6em;
+    color: white;
+}
