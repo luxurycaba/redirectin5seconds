@@ -11,7 +11,17 @@ body {
     background-position: center;
     background-repeat: no-repeat;
 }
+
 #contador {
     font-size: 6em;
     color: white;
+}
+
+@media (max-width: 767px) {
+  body {
+    background-image: url('../img/montana22mobile.png');
+  }
+  #contador {
+    font-size: 4em;
+  }
 }

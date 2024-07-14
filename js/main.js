@@ -1,5 +1,5 @@
         // Configuración de la redirección
-        const redireccionarA = "https://wa.link/montana22";
+        const redireccionarA = "https://wa.link/montana22pub";
         const tiempoTotal = 5; // Tiempo en segundos
 
         // Inicialización del contador
